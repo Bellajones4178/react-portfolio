@@ -1,38 +1,44 @@
-const logotext = "JOHN";
+const logotext = "Isabella";
 const meta = {
-    title: "John Doe",
+    title: "Isabella Jones",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Isabella Jones",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Web Developer",
+        second: "Responsive UI design",
+        third: "Scalable web apps",
+        fourth: "Clean, efficient code",
+        fifth: "Full-stack solutions",
+        sixth: "User-focused design",
+        seventh: "Fast, secure sites",
+        eighth: "Modern tech stack",
+        ninth: "Code with purpose",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Welcome! I'm a creative technologist focused on turning ideas into functional, thoughtful solutions.",
+    your_img_url: "https://images.unsplash.com/photo-1658849110893-841726ccd937?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Short History",
+    aboutme: "I earned my undergraduate degree in Nonprofit Management, where I saw firsthand how many organizations struggled with access to affordable and effective digital tools. That experience inspired me to shift into tech, with the goal of creating better, more accessible platforms for mission-driven work. I'm now pursuing a second bachelor's in Computer Science at Oregon State University and currently collaborate with a local nonprofit to build tailored, impactful tech solutions.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "N/A",
+        where: "N/A",
+        date: "N/A",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "N/A",
+        where: "N/A",
+        date: "N/A",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "N/A",
+        where: "N/A",
+        date: "N/A",
     },
 ];
 
@@ -58,7 +64,7 @@ const skills = [{
     },
 ];
 
-const services = [{
+const interests = [{
         title: "UI & UX Design",
         description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
     },
@@ -83,9 +89,9 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1510172951991-856a654063f9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "Pyle Book Project",
+        link: "https://github.com/Bellajones4178/Pyle-Book-Project",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
@@ -136,8 +142,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "Bellamijones@gmail.com",
+    YOUR_FONE: "(321) 310 - 1178",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -148,9 +154,7 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com",
-    facebook: "https://facebook.com",
     linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
 };
 export {
     meta,
@@ -158,7 +162,7 @@ export {
     dataportfolio,
     worktimeline,
     skills,
-    services,
+    interests,
     introdata,
     contactConfig,
     socialprofils,
