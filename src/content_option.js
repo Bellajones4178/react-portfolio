@@ -84,9 +84,9 @@ const dataportfolio = [{
         link: "#",
     },
     {
-        img: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/images/SQL.png",
+        description: "Card Shop SQL",
+        link: "https://github.com/Bellajones4178/CardShop",
     },
     {
         img: "/images/pyle.png",
