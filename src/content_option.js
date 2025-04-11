@@ -79,9 +79,14 @@ const interests = [{
 ];
 
 const dataportfolio = [{
-        img: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/images/GrantManagementFrontend.png",
+        description: "Grant Management System - Frontend",
+        link: "https://github.com/Bellajones4178/GrantManagment-Frontend",
+    },
+    {
+        img: "/images/GrantManagementBackend.png",
+        description: "Grant Management System - Backend",
+        link: "https://github.com/Bellajones4178/GrantManagement-Backend",
     },
     {
         img: "/images/SQL.png",
@@ -97,11 +102,6 @@ const dataportfolio = [{
         img: "/images/flightboarding.png",
         description: "Commercial Flight Aid",
         link: "https://github.com/Bellajones4178/Commercial-Flight-Aid",
-    },
-    {
-        img: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
     },
     {
         img: "",
