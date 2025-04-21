@@ -104,27 +104,21 @@ const dataportfolio = [{
         link: "https://github.com/Bellajones4178/Commercial-Flight-Aid",
     },
     {
-        img: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/images/ToDo.png",
+        description: "Java To Do List",
+        link: "https://github.com/Bellajones4178/ToDoList",
     },
     {
         img: "https://images.unsplash.com/photo-1457694587812-e8bf29a43845?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Modified Downloads Sort",
         link: "https://github.com/Bellajones4178/Downloads_Sort",
     },
-    {
-        img: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "Bellamijones@gmail.com",
     YOUR_FONE: "(321) 310 - 1178",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
+    // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
