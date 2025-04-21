@@ -120,9 +120,9 @@ const contactConfig = {
     YOUR_FONE: "(321) 310 - 1178",
     // create an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_a2goftp",
+    YOUR_TEMPLATE_ID: "template_0c9p0jq",
+    YOUR_USER_ID: "2RpG36Y4R8Ygq1Dz0",
 };
 
 const socialprofils = {
