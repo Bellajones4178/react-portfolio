@@ -22,10 +22,11 @@ export const ContactUs = () => {
     setFormdata({ loading: true });
 
     const templateParams = {
-      from_name: formData.email,
-      user_name: formData.name,
-      to_name: contactConfig.YOUR_EMAIL,
-      message: formData.message,
+      to_email: formData.email,         
+      from_name: contactConfig.YOUR_EMAIL,  
+      user_name: formData.name,        
+      message: formData.message,        
+      reply_to: contactConfig.YOUR_EMAIL 
     };
 
     emailjs
